@@ -5,8 +5,8 @@
 -->
 
 :black_small_square:  I am a newbie in the front end development world :girl: <br>
-:black_small_square:  But my enthusiasm and eagerness to learn is growing every day :zap: <br>
-:white_small_square:  I am looking for a job where I can show my motivation, commitment and demonstrate my creativity :tada: <br>
+:white_small_square:  But my enthusiasm and eagerness to learn is growing every day :zap: <br>
+:black_small_square:  I am looking for a job where I can show my motivation, commitment and demonstrate my creativity :tada: <br>
 :white_small_square:  I am ready for new challenges and a large dose of knowledge :muscle: <br><br><br>
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
