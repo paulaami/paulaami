@@ -14,9 +14,9 @@
 <br><br>
 ## Projects
 :globe_with_meridians:  [E-commerce website](https://github.com/paulaami/e-commerce-website) - E-commerce website and blog, designed and coded by myself [[demo]](https://karolinaszymkowicz.pl/) <br>
-:ribbon: [Portfolio](https://github.com/paulaami/Portfolio-website) - Portfolio website [[demo]](https://paulinamilkowska.pl/)
-:crystal_ball:  [Harry potter quiz](https://github.com/paulaami/Harry-Potter-Quiz) - One-choice quiz about the knowledge of Harry Potter. [[demo]](https://paulaami.github.io/Harry-Potter-Quiz/)
-:running:  [Calorie calculator](https://github.com/paulaami/calorie-calculator) - xxx. [[demo]](https://paulaami.github.io/Harry-Potter-Quiz/)
+:ribbon: [Portfolio](https://github.com/paulaami/Portfolio-website) - Portfolio website [[demo]](https://paulinamilkowska.pl/) <br>
+:crystal_ball:  [Harry potter quiz](https://github.com/paulaami/Harry-Potter-Quiz) - One-choice quiz about the knowledge of Harry Potter. [[demo]](https://paulaami.github.io/Harry-Potter-Quiz/) <br>
+:running:  [Calorie calculator](https://github.com/paulaami/calorie-calculator) - xxx. [[demo]](https://paulaami.github.io/Harry-Potter-Quiz/)<br><br>
 
 
 
