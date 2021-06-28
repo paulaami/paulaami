@@ -1,4 +1,4 @@
-### Hello :raising_hand:
+## Hello :raising_hand:
 
 [![Portfolio](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)][URLportfolio]
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=flat&logo=gmail&logoColor=white)][URLEmail]
@@ -7,13 +7,14 @@
 :black_small_square:  I am a newbie in the front end development world :girl: <br>
 :white_small_square:  But my enthusiasm and eagerness to learn is growing every day :zap: <br>
 :black_small_square:  I am looking for a job where I can show my motivation, commitment and demonstrate my creativity :tada: <br>
-:white_small_square:  I am ready for new challenges and a large dose of knowledge :muscle: <br><br>
+:white_small_square:  I am ready for new challenges and a large dose of knowledge :muscle: <br>
+:black_small_square:  If you want to talk I speak Polish, English and German :speech_balloon:
+<br><br>
 :point_right:  More about me on my <a href ="https://paulinamilkowska.pl/" rel="nofollow">personal portfolio</a> :point_left:
 <br><br>
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects
+-:globe_with_meridians:[e-commerce website](https://github.com/paulaami/e-commerce-website) - E-commerce website and blog, designed and coded by myself [[demo]](https://karolinaszymkowicz.pl/)
+
 
 
 
