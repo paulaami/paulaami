@@ -15,7 +15,8 @@
 ## Projects
 :globe_with_meridians:  [E-commerce website](https://github.com/paulaami/e-commerce-website) - My first commercial project. E-commerce website and blog, designed and coded by myself [[demo]](https://karolinaszymkowicz.pl/) <br><br>
 :ribbon: [Portfolio](https://github.com/paulaami/Portfolio-website) - Portfolio website [[demo]](https://paulinamilkowska.pl/) <br><br>
-:crystal_ball:  [Harry potter quiz](https://github.com/paulaami/Harry-Potter-Quiz) - One-choice quiz about the knowledge of Harry Potter. [[demo]](https://paulaami.github.io/Harry-Potter-Quiz/) <br><br>
+ 🏳️‍⚧️  [REST Countries App](https://github.com/paulaami/REST-Countries) - Application communicates with REST Countries API and display specific information about countries. [[demo]](https://paulaami.github.io/REST-Countries/) <br><br>
+ :crystal_ball:  [Harry potter quiz](https://github.com/paulaami/Harry-Potter-Quiz) - One-choice quiz about the knowledge of Harry Potter. [[demo]](https://paulaami.github.io/Harry-Potter-Quiz/) <br><br>
 :running:  [Calorie calculator](https://github.com/paulaami/calorie-calculator) - Calculator measuring the number of calories burned per day, depending on the type and intensity of physical activity. [[demo]](https://paulaami.github.io/calorie-calculator/)<br><br>
 
 
