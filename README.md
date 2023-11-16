@@ -15,10 +15,10 @@
 ## Projects
 🏳️‍🌈  [REST Countries App](https://github.com/paulaami/REST-Countries) - Application communicates with REST Countries API and display specific information about countries. [[demo]](https://paulaami.github.io/REST-Countries/) <br><br>
 🔎 [Form_Validator](https://github.com/paulaami/VAT-Converter-Form) - An application that dynamically validates a form and sends data to a REST API via Ajax [[demo]](https://paulaami.github.io/VAT-Converter-Form/) <br><br>
-:globe_with_meridians:  [E-commerce website](https://github.com/paulaami/e-commerce-website) - My first commercial project for a personal trainer. E-commerce website and blog, designed and coded by myself [[demo]](https://karolinaszymkowicz.pl/) <br><br>
-🍏 [Crazy Nutritionist](https://github.com/paulaami/Dietician-s-website) - Website for a clinical nutritionist, designed and coded by myself [[demo]](https://szalonadietetyczka.pl/) <br><br>
-🍪 [World of Cakes](https://github.com/paulaami/swiatciast) - Website for a cake company, designed and coded by myself [[demo]](https://slodkiswiatciast.pl/) <br><br>
-🛠️ [Jawor Company](https://github.com/paulaami/Jawor-Company-s-Website/tree/main) - Website for a service company, designed and coded by myself [[demo]](https://jawor-waw.pl/) <br><br>
+:globe_with_meridians:  [E-commerce website](https://github.com/paulaami/e-commerce-website) - My first commercial project for a personal trainer. E-commerce website and blog, designed and coded by myself [[demo]](https://paulaami.github.io/karolina-trenerka/) <br><br>
+🍏 [Crazy Nutritionist](https://github.com/paulaami/Dietician-s-website) - Website for a clinical nutritionist, designed and coded by myself [[demo]](https://paulaami.github.io/Dietician-s-website/) <br><br>
+🍪 [World of Cakes](https://github.com/paulaami/swiatciast) - Website for a cake company, designed and coded by myself [[demo]](https://paulaami.github.io/swiatciast/) <br><br>
+🛠️ [Jawor Company](https://github.com/paulaami/Jawor-Company-s-Website/tree/main) - Website for a service company, designed and coded by myself [[demo]](https://paulaami.github.io/Jawor-Company-s-Website/) <br><br>
 :ribbon: [Portfolio](https://github.com/paulaami/Portfolio-website) - Portfolio website [[demo]](https://paulinamilkowska.pl/) <br><br>
 :crystal_ball:  [Harry potter quiz](https://github.com/paulaami/Harry-Potter-Quiz) - One-choice quiz about the knowledge of Harry Potter. [[demo]](https://paulaami.github.io/Harry-Potter-Quiz/) <br><br>
 :running:  [Calorie calculator](https://github.com/paulaami/calorie-calculator) - Calculator measuring the number of calories burned per day, depending on the type and intensity of physical activity. [[demo]](https://paulaami.github.io/calorie-calculator/)<br><br>
