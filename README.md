@@ -17,7 +17,7 @@
 🍏 [Crazy Nutritionist](https://github.com/paulaami/Dietician-s-website) - Website for a clinical nutritionist, designed and coded by myself [[demo]](https://paulaami.github.io/Dietician-s-website/) <br><br>
 🍪 [World of Cakes](https://github.com/paulaami/swiatciast) - Website for a cake company, designed and coded by myself [[demo]](https://paulaami.github.io/swiatciast/) <br><br>
 🛠️ [Jawor Company](https://github.com/paulaami/Jawor-Company-s-Website/tree/main) - Website for a service company, designed and coded by myself [[demo]](https://paulaami.github.io/Jawor-Company-s-Website/) <br><br>
-:ribbon: [Portfolio](https://github.com/paulaami/Portfolio-website) - Portfolio website [[demo]](https://paulinamilkowska.pl/) <br><br>
+:ribbon: [Portfolio](https://github.com/paulaami/Portfolio-website) - Portfolio website [[demo]](https://paulaami.github.io/Portfolio-website/) <br><br>
 :crystal_ball:  [Harry potter quiz](https://github.com/paulaami/Harry-Potter-Quiz) - One-choice quiz about the knowledge of Harry Potter. [[demo]](https://paulaami.github.io/Harry-Potter-Quiz/) <br><br>
 :running:  [Calorie calculator](https://github.com/paulaami/calorie-calculator) - Calculator measuring the number of calories burned per day, depending on the type and intensity of physical activity. [[demo]](https://paulaami.github.io/calorie-calculator/)<br><br>
 
